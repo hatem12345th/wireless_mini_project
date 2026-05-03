@@ -1,0 +1,14 @@
+.codex
+
+__pycache__/
+*.pyc
+*.pyo
+
+*.pcap
+*.pcapng
+*.log
+
+deps/
+*.deb
+
+UERANSIM/
